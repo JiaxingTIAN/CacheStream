@@ -1,2 +1,3 @@
 # CacheStream
-CacheSys for stream content
+Simulate a Cache System for stream content
+Written in Java
